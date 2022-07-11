@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RickAndMorty</string>
+    <string name="imagem_do_personagem_rick_and_morty">Imagem do personagem Rick and Morty</string>
+    <string name="nome">Nome:</string>
+    <string name="status">Status:</string>
+    <string name="especie">Espécie:</string>
+    <string name="gen_ro">Genêro:</string>
+    <string name="rick_and_morty">Rick and Mordy</string>
+    <string name="bot_o_redondo_com_uma_estrela_no_meio">Botão redondo com uma estrela no meio</string>
+</resources>
